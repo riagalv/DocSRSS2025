@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Lets Warm Up"
             }
+          },
+          {
+            "id": "efd6b4a195b95011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Warm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 Warm"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -212,10 +226,11 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "6a87ee786e22c034",
+  "active": "efd6b4a195b95011",
   "lastOpenFiles": [
-    "Plantilla.md",
     "Lets Warm Up.md",
+    "Plantilla.md",
+    "2 Warm.md",
     "README.md"
   ]
 }
