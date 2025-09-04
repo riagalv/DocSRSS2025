@@ -2,7 +2,7 @@
 ## Descripcion del reto
 Sometimes you need to handle process data outside of a file. Can you find a way to keep the output from this program and search for the flag? Connect to `jupiter.challenges.picoctf.org 4427`.
 ## Solucion
-
+picoCTF{digital_plumb3r_5ea1fbd7}
 - solucion1
 ````
 cowboyofnoname-picoctf@webshell:~$ nc jupiter.challenges.picoctf.org 4427 | grep picoCTF  

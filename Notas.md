@@ -17,3 +17,10 @@ nc 127.0.0.1 6666 assi tendria q ser la conexion al puerto q abrio
 nc localhost 6666 
 
 | es un pipe en linux q me permite redirigir la salida de un comando, como entradad de otro
+strings muestra todas las cadenas
+
+ctrl a inicio
+ctrl e fin de terminal
+cd a la carpeta inicial
+pwd
+cd --

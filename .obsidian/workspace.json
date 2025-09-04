@@ -8,7 +8,105 @@
         "type": "tabs",
         "children": [
           {
-            "id": "efea64ccbfc9bf08",
+            "id": "89bbd2a451ea6850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "strings it.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "strings it"
+            }
+          },
+          {
+            "id": "83c3a50a889765e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "strings it.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "strings it"
+            }
+          },
+          {
+            "id": "b2b47774ebe973e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Static ain't always noise.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Static ain't always noise"
+            }
+          },
+          {
+            "id": "fc8e0dac4bac5c0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "useless.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "useless"
+            }
+          },
+          {
+            "id": "90582a8b590173e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tab, Tab, Attack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tab, Tab, Attack"
+            }
+          },
+          {
+            "id": "b4134b14c177e7e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magikarp Ground Mission.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magikarp Ground Mission"
+            }
+          },
+          {
+            "id": "53833b2a045a9d07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "repetitions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "repetitions"
+            }
+          },
+          {
+            "id": "d6726c0ed3be9172",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,161 +120,21 @@
             }
           },
           {
-            "id": "6a87ee786e22c034",
+            "id": "7b27cc05149b3602",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lets Warm Up.md",
+                "file": "Based.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lets Warm Up"
-            }
-          },
-          {
-            "id": "efd6b4a195b95011",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Warm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 Warm"
-            }
-          },
-          {
-            "id": "ceb85c90df3933ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Warmed Up.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Warmed Up"
-            }
-          },
-          {
-            "id": "cc5629e0f639ce2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bases.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bases"
-            }
-          },
-          {
-            "id": "ebd0479459b9c77f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "First Grep.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "First Grep"
-            }
-          },
-          {
-            "id": "05ce1ba749637a07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notas"
-            }
-          },
-          {
-            "id": "e8354e92e8bd5d99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notas"
-            }
-          },
-          {
-            "id": "b3311682ec0e92ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "what's a net cat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "what's a net cat"
-            }
-          },
-          {
-            "id": "f201060cdbe7a087",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "plumbing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "plumbing"
-            }
-          },
-          {
-            "id": "6acccfc682854e3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "glitch cat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "glitch cat"
-            }
-          },
-          {
-            "id": "a5fdb9320e5e872c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nice netcat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nice netcat"
+              "title": "Based"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -324,20 +282,30 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "a5fdb9320e5e872c",
+  "active": "7b27cc05149b3602",
   "lastOpenFiles": [
-    "Plantilla.md",
-    "Nice netcat.md",
-    "glitch cat.md",
-    "plumbing.md",
-    "Notas.md",
-    "what's a net cat.md",
-    "obedient cat.md",
-    "First Grep.md",
-    "Bases.md",
+    "strings it.md",
+    "Wave a flag.md",
+    "Static ain't always noise.md",
+    "useless.md",
+    "Tab, Tab, Attack.md",
+    "Magikarp Ground Mission.md",
+    "repetitions.md",
+    "Based.md",
     "Warmed Up.md",
-    "2 Warm.md",
+    "obedient cat.md",
+    "Plantilla.md",
+    "Notas.md",
     "Lets Warm Up.md",
+    "glitch cat.md",
+    "First Grep.md",
+    "first find.md",
+    "big zip.md",
+    "plumbing.md",
+    "Nice netcat.md",
+    "what's a net cat.md",
+    "Bases.md",
+    "2 Warm.md",
     "README.md"
   ]
 }
