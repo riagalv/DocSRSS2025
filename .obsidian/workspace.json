@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bdacc12110c2bfbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "serpentine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "serpentine"
-            }
-          },
-          {
             "id": "c1684e3872f74e76",
             "type": "leaf",
             "state": {
@@ -36,203 +22,35 @@
             }
           },
           {
-            "id": "c13c8d4c4b9f40fb",
+            "id": "76e4e05cab9b73f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chrono.md",
+                "file": "Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chrono"
+              "title": "Scavenger Hunt"
             }
           },
           {
-            "id": "d706050fda015552",
+            "id": "f12983e40431ca51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plantilla.md",
+                "file": "cookies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plantilla"
-            }
-          },
-          {
-            "id": "a49df30a863bb8ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "time machine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "time machine"
-            }
-          },
-          {
-            "id": "456dae548810bfad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plantilla.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plantilla"
-            }
-          },
-          {
-            "id": "9017f8ac26e1da46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plantilla.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plantilla"
-            }
-          },
-          {
-            "id": "1fe80621de19d86e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plantilla.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plantilla"
-            }
-          },
-          {
-            "id": "7bd1206e7eb9e705",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "binhexa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "binhexa"
-            }
-          },
-          {
-            "id": "5f9c6649a2309c81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chrono.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "chrono"
-            }
-          },
-          {
-            "id": "221eb6f33011f3b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Insp3ct0r.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Insp3ct0r"
-            }
-          },
-          {
-            "id": "9913d1673d3f98e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "where are the robots.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "where are the robots"
-            }
-          },
-          {
-            "id": "4864831bdcb7bad4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "logon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "logon"
-            }
-          },
-          {
-            "id": "add63f17a63cfcf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dont-use-client-side.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "dont-use-client-side"
-            }
-          },
-          {
-            "id": "cd46b2e76e3e432f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picobrowser.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "picobrowser"
-            }
-          },
-          {
-            "id": "c70612a58a5a76e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Client-side-again.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Client-side-again"
+              "title": "cookies"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -289,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3c15aa352bd4359b",
@@ -381,17 +198,27 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "c70612a58a5a76e6",
+  "active": "76e4e05cab9b73f1",
   "lastOpenFiles": [
+    "Pasted image 20250922140108.png",
+    "Pasted image 20250922114931.png",
+    "Pasted image 20250922114016.png",
+    "Pasted image 20250922113833.png",
+    "Pasted image 20250922113801.png",
     "Plantilla.md",
-    "Client-side-again.md",
+    "Scavenger Hunt.md",
+    "cookies.md",
+    "Pasted image 20250922111807.png",
+    "get ahead.md",
+    "Insp3ct0r.md",
+    "Pasted image 20250922102720.png",
     "picobrowser.md",
+    "Client-side-again.md",
     "dont-use-client-side.md",
     "Pasted image 20250917113321.png",
     "logon.md",
     "Pasted image 20250917111944.png",
     "where are the robots.md",
-    "Insp3ct0r.md",
     "chrono.md",
     "special.md",
     "ASCII Numbers.md",
@@ -406,10 +233,6 @@
     "fixme2py.md",
     "glitch cat.md",
     "repetitions.md",
-    "pw crack 3.md",
-    "pw crack 1.md",
-    "strings it.md",
-    "Super SSH.md",
-    "Notas.md"
+    "pw crack 3.md"
   ]
 }
