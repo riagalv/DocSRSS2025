@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d29a5ca3bd3c674d",
+        "id": "46cd7abd4119db11",
         "type": "tabs",
         "children": [
           {
-            "id": "c1684e3872f74e76",
+            "id": "d86b0f88e1d69f56",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,35 +22,49 @@
             }
           },
           {
-            "id": "76e4e05cab9b73f1",
+            "id": "203a49a6b3fc2606",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scavenger Hunt.md",
+                "file": "Irish-Name-Repo 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scavenger Hunt"
+              "title": "Irish-Name-Repo 1"
             }
           },
           {
-            "id": "f12983e40431ca51",
+            "id": "6c42d64538b8a0ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cookies.md",
+                "file": "more sqli.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cookies"
+              "title": "more sqli"
+            }
+          },
+          {
+            "id": "ea4219013b809e60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JaWT Scratchpad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JaWT Scratchpad"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,26 +212,37 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "76e4e05cab9b73f1",
+  "active": "ea4219013b809e60",
   "lastOpenFiles": [
-    "Pasted image 20250922140108.png",
-    "Pasted image 20250922114931.png",
-    "Pasted image 20250922114016.png",
-    "Pasted image 20250922113833.png",
-    "Pasted image 20250922113801.png",
+    "Pasted image 20250924184553.png",
+    "Pasted image 20250924184522.png",
+    "Pasted image 20250924132543.png",
+    "Pasted image 20250924132444.png",
+    "Pasted image 20250924132332.png",
+    "Pasted image 20250924132236.png",
+    "Pasted image 20250924132121.png",
+    "Pasted image 20250924132017.png",
+    "Pasted image 20250924112156.png",
     "Plantilla.md",
+    "JaWT Scratchpad.md",
+    "more sqli.md",
+    "Pasted image 20250924110532.png",
+    "Pasted image 20250924110204.png",
+    "Irish-Name-Repo 1.md",
+    "Sin nombre",
+    "Sin título 1.base",
+    "Sin título 1.canvas",
+    "Sin título.canvas",
+    "Nice netcat.md",
+    "Sin título.base",
+    "get ahead.md",
     "Scavenger Hunt.md",
     "cookies.md",
-    "Pasted image 20250922111807.png",
-    "get ahead.md",
     "Insp3ct0r.md",
-    "Pasted image 20250922102720.png",
     "picobrowser.md",
     "Client-side-again.md",
     "dont-use-client-side.md",
-    "Pasted image 20250917113321.png",
     "logon.md",
-    "Pasted image 20250917111944.png",
     "where are the robots.md",
     "chrono.md",
     "special.md",
@@ -229,10 +254,6 @@
     "time machine.md",
     "committee issue.md",
     "First Grep.md",
-    "convertme.md",
-    "fixme2py.md",
-    "glitch cat.md",
-    "repetitions.md",
-    "pw crack 3.md"
+    "convertme.md"
   ]
 }

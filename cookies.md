@@ -6,6 +6,6 @@ Who doesn't love cookies? Try to figure out the best one. [http://mercury.picoc
 con cookie editor hasta el numero 18
 ![[Pasted image 20250922111807.png]]
 ## Notas
-for i in 1{1..30}; do curl -s http://mercury.picoctf.net:54219/check -H  "Cookie: name=$1 "; done | grep pico
-y con este te lo da directo
+for i in 1{1..10}; do curl -s http://mercury.picoctf.net:54219/check -H  "Cookie: name=$1 "; done | grep pico
+y con este te lo da direct
 ## Referencias
