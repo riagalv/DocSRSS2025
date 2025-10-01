@@ -13,15 +13,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "soap.md",
+                "file": "Plantilla.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "soap"
+              "title": "Plantilla"
+            }
+          },
+          {
+            "id": "d7269e94280edad7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glory of the Garden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Glory of the Garden"
+            }
+          },
+          {
+            "id": "936b1560a9a3a315",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "extensions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "extensions"
+            }
+          },
+          {
+            "id": "3305097295f65e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shark on wire 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "shark on wire 1"
+            }
+          },
+          {
+            "id": "00ed29f5f9c3b978",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "so meta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "so meta"
+            }
+          },
+          {
+            "id": "bf7efa27436eecbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What Lies Within.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What Lies Within"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -169,30 +240,37 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "d86b0f88e1d69f56",
+  "active": "bf7efa27436eecbc",
   "lastOpenFiles": [
-    "Pasted image 20250930221059.png",
+    "Pasted image 20251001110747.png",
+    "extensions.md",
+    "What Lies Within.md",
+    "so meta.md",
+    "Pasted image 20251001104216.png",
+    "Pasted image 20251001104058.png",
+    "Glory of the Garden.md",
+    "Pasted image 20251001103642.png",
+    "Pasted image 20251001103408.png",
+    "Pasted image 20251001103339.png",
+    "Pasted image 20251001103258.png",
+    "Pasted image 20251001102718.png",
+    "shark on wire 1.md",
     "Plantilla.md",
-    "trickster.md",
-    "Pasted image 20250930195029.png",
-    "Pasted image 20250930194942.png",
-    "Pasted image 20250930194347.png",
-    "Pasted image 20250930192543.png",
-    "Pasted image 20250930192441.png",
-    "Pasted image 20250930192335.png",
-    "most cookies.md",
-    "Pasted image 20250930191955.png",
-    "Pasted image 20250930191740.png",
-    "Pasted image 20250930185939.png",
-    "Pasted image 20250930185840.png",
+    "Pasted image 20251001090244.png",
+    "Pasted image 20251001090211.png",
+    "Pasted image 20251001090150.png",
+    "Static ain't always noise.md",
+    "Sin título 1.base",
+    "Sin título 1.canvas",
+    "Notas.md",
     "soap.md",
+    "trickster.md",
+    "most cookies.md",
     "matchtheregex.md",
     "JaWT Scratchpad.md",
     "more sqli.md",
     "Irish-Name-Repo 1.md",
     "Sin nombre",
-    "Sin título 1.base",
-    "Sin título 1.canvas",
     "Sin título.canvas",
     "Nice netcat.md",
     "Sin título.base",
@@ -204,13 +282,6 @@
     "Client-side-again.md",
     "dont-use-client-side.md",
     "logon.md",
-    "where are the robots.md",
-    "chrono.md",
-    "special.md",
-    "ASCII Numbers.md",
-    "binhexa.md",
-    "binary search.md",
-    "collaborative development.md",
-    "blame the game.md"
+    "where are the robots.md"
   ]
 }
