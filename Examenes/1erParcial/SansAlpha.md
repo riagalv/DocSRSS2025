@@ -4,9 +4,10 @@ The Multiverse is within your grasp! Unfortunately, the server that contains the
 
 Additional details will be available after launching your challenge instance.
 ## Solucion
-vemos lo q hay
+picoCTF{7h15_mu171v3r53_15_m4dn355_b0d5e855}
+vemos como podemos desencriptar
 ![[Pasted image 20251007181956.png]]
-
+![[Pasted image 20251010180351.png]]
 ## Notas
 
 ## Referencias
