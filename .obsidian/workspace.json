@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Examenes/1erParcial/Specialer.md",
+                "file": "sservicio social.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Specialer"
+              "title": "sservicio social"
             }
           }
         ],
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3c15aa352bd4359b",
@@ -215,9 +214,9 @@
   },
   "active": "79fa907002b0899c",
   "lastOpenFiles": [
+    "Examenes/1erParcial/Specialer.md",
     "Pasted image 20251010183823.png",
     "Plantilla.md",
-    "Examenes/1erParcial/Specialer.md",
     "Examenes/1erParcial/SSTI2.md",
     "Pasted image 20251010182859.png",
     "Examenes/1erParcial/SQL Direct.md",
@@ -233,7 +232,6 @@
     "Pasted image 20251009093528.png",
     "Pasted image 20251009093504.png",
     "Pasted image 20251009093215.png",
-    "Pasted image 20251009093134.png",
     "Examenes/1erParcial/SSTI1.md",
     "Examenes/1erParcial/Cookie Monster Secret Recipe.md",
     "Examenes/1erParcial/Bookmarklet.md",
