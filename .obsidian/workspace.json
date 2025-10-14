@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ConcursoPico/Crack the Gate 1.md",
+                "file": "ConcursoPico/Crack the Gate 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crack the Gate 1"
+              "title": "Crack the Gate 2"
             }
           },
           {
@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tunn3l_v1s10n.md",
+                "file": "ConcursoPico/Crack the Power.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tunn3l_v1s10n"
+              "title": "Crack the Power"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,8 +212,17 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "2e1853e69ea41d3d",
+  "active": "79fa907002b0899c",
   "lastOpenFiles": [
+    "ConcursoPico/Crack the Gate 1.md",
+    "ConcursoPico/byp4ss3d.md",
+    "ConcursoPico/Crack the Gate 2.md",
+    "ConcursoPico/Crack the Power.md",
+    "Pasted image 20251014132727.png",
+    "Pasted image 20251014132647.png",
+    "Pasted image 20251014132533.png",
+    "Plantilla.md",
+    "tunn3l_v1s10n.md",
     "Pasted image 20251013105157.png",
     "Pasted image 20251013105133.png",
     "Pasted image 20251013104840.png",
@@ -225,7 +234,6 @@
     "Pasted image 20251013101914.png",
     "WebDecode.md",
     "webnet1.md",
-    "tunn3l_v1s10n.md",
     "Unminify.md",
     "Super SSH.md",
     "strings it.md",
@@ -243,14 +251,6 @@
     "logon.md",
     "Local Authority.md",
     "like1000.md",
-    "Lets Warm Up.md",
-    "Matryoshka doll.md",
-    "ConcursoPico/byp4ss3d.md",
-    "Plantilla.md",
-    "Pasted image 20250924184553.png",
-    "Pasted image 20250929110247.png",
-    "Pasted image 20251012151812.png",
-    "Pasted image 20251012151747.png",
     "ConcursoPico",
     "Sin título 1.canvas",
     "Sin título 1.base",
