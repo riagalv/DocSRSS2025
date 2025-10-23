@@ -27,10 +27,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Crypto/fotos/Pasted image 20251021185020.png"
+                "file": "Crypto/fotos/Pasted image 20251023150814.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20251021185020"
+              "title": "Pasted image 20251023150814"
             }
           }
         ],
@@ -184,19 +184,20 @@
   },
   "active": "4599404051fafccf",
   "lastOpenFiles": [
+    "Crypto/rsa-pop-quiz.md",
+    "Crypto/fotos/Pasted image 20251023151335.png",
+    "Crypto/fotos/Pasted image 20251023151318.png",
+    "Crypto/fotos/Pasted image 20251023151302.png",
+    "Crypto/fotos/Pasted image 20251023151210.png",
+    "Crypto/fotos/Pasted image 20251023151144.png",
+    "Crypto/fotos/Pasted image 20251023150814.png",
+    "Plantilla.md",
+    "Crypto/fotos/Pasted image 20251021185020.png",
     "Crypto/interencdec.md",
     "Pasted image 20251021185938.png",
-    "Crypto/fotos/Pasted image 20251021185020.png",
     "Pasted image 20251021185513.png",
     "Crypto/fotos/Pasted image 20251021190353.png",
-    "Crypto/fotos/Pasted image 20251021190440.png",
-    "Crypto/fotos/Pasted image 20251021190656.png",
-    "Crypto/fotos/Pasted image 20251021190725.png",
-    "Plantilla.md",
-    "Crypto/fotos/Pasted image 20251021184240.png",
     "Crypto/waves over lambda.md",
-    "Crypto/fotos/Pasted image 20251021184850.png",
-    "Crypto/fotos/Pasted image 20251021184830.png",
     "Crypto/tapping.md",
     "Crypto/la cifra de.md",
     "Crypto/Easy1.md",
@@ -221,7 +222,6 @@
     "Forensic/Matryoshka doll.md",
     "Forensic/webnet1.md",
     "Forensic/webnet01.md",
-    "Forensic/shark on wire 2.md",
     "Forensic",
     "Web",
     "General Skills",
