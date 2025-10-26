@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3479684c39580c2f",
+            "id": "b64280f861bf64b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,15 +22,15 @@
             }
           },
           {
-            "id": "295edfb175a2c3be",
+            "id": "3479684c39580c2f",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Crypto/fotos/Pasted image 20251023150814.png"
+                "file": "Forensic/fotos/Pasted image 20251025230825.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20251023150814"
+              "title": "Pasted image 20251025230825"
             }
           }
         ],
@@ -184,19 +184,31 @@
   },
   "active": "4599404051fafccf",
   "lastOpenFiles": [
-    "Crypto/rsa-pop-quiz.md",
-    "Crypto/fotos/Pasted image 20251023151335.png",
-    "Crypto/fotos/Pasted image 20251023151318.png",
-    "Crypto/fotos/Pasted image 20251023151302.png",
-    "Crypto/fotos/Pasted image 20251023151210.png",
-    "Crypto/fotos/Pasted image 20251023151144.png",
-    "Crypto/fotos/Pasted image 20251023150814.png",
+    "Forensic/tarea3/Ph4nt0m 1ntrud3r.md",
+    "Forensic/fotos/Pasted image 20251026003838.png",
+    "Forensic/fotos/Pasted image 20251026003723.png",
+    "Forensic/fotos/Pasted image 20251026003616.png",
     "Plantilla.md",
-    "Crypto/fotos/Pasted image 20251021185020.png",
+    "Forensic/tarea3/RED.md",
+    "Forensic/fotos/Pasted image 20251026002953.png",
+    "Forensic/fotos/Pasted image 20251026002910.png",
+    "Forensic/fotos/Pasted image 20251026002801.png",
+    "Forensic/tarea3/Secret of the Polyglot.md",
+    "Forensic/fotos/Pasted image 20251026002040.png",
+    "Forensic/fotos/Pasted image 20251026001942.png",
+    "Forensic/fotos/Pasted image 20251026001455.png",
+    "Forensic/fotos/Pasted image 20251026001442.png",
+    "Forensic/tarea3/Scan Surprise.md",
+    "Forensic/tarea3/hideme.md",
+    "Forensic/tarea3/Redaction gone wrong.md",
+    "Forensic/tarea3/St3g0.md",
+    "Forensic/tarea3/information.md",
+    "Forensic/tarea3/CanYouSee.md",
+    "Sin título.md",
+    "Forensic/tarea3",
+    "Forensic/fotos",
+    "Crypto/rsa-pop-quiz.md",
     "Crypto/interencdec.md",
-    "Pasted image 20251021185938.png",
-    "Pasted image 20251021185513.png",
-    "Crypto/fotos/Pasted image 20251021190353.png",
     "Crypto/waves over lambda.md",
     "Crypto/tapping.md",
     "Crypto/la cifra de.md",
@@ -212,23 +224,11 @@
     "Sinnombre/Unminify.md",
     "Sinnombre/time machine.md",
     "Sinnombre/sservicio social.md",
-    "Forensic/Operation Orchid.md",
-    "Forensic/Operation Oni.md",
-    "Forensic/Sleuthkit Apprentice.md",
-    "Forensic/Disk, disk, sleuth!.md",
-    "Forensic/Milkslap.md",
-    "Forensic/MacroHard WeakEdge.md",
-    "Forensic/tunn3l_v1s10n.md",
-    "Forensic/Matryoshka doll.md",
-    "Forensic/webnet1.md",
-    "Forensic/webnet01.md",
     "Forensic",
     "Web",
     "General Skills",
     "Sin nombre 3",
     "Sin nombre 2",
-    "Sin nombre 1",
-    "General Skills",
     "Sin título.canvas",
     "Sin título 1.canvas"
   ]
