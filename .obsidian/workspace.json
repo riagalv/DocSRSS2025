@@ -22,8 +22,35 @@
               "icon": "lucide-file",
               "title": "Plantilla"
             }
+          },
+          {
+            "id": "3bef0f101863ba5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reverse_eng/vault-door-3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vault-door-3"
+            }
+          },
+          {
+            "id": "ec09843d4957f46d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "reverse_eng/fotos/Pasted image 20251110080529.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251110080529"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,25 +198,32 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "3479684c39580c2f",
+  "active": "4599404051fafccf",
   "lastOpenFiles": [
-    "Crypto/fotos/Pasted image 20251106175140.png",
-    "Crypto/tarea4/Vigenere.md",
-    "Crypto/fotos/Pasted image 20251106194510.png",
-    "Crypto/fotos/Pasted image 20251106194420.png",
+    "reverse_eng/vault-door-5.md",
+    "reverse_eng/fotos/Pasted image 20251110112207.png",
+    "reverse_eng/fotos/Pasted image 20251110112057.png",
+    "reverse_eng/fotos/Pasted image 20251110111940.png",
+    "reverse_eng/Sin título.md",
+    "reverse_eng/vault-door-4.md",
+    "reverse_eng/fotos/Pasted image 20251110110931.png",
+    "reverse_eng/fotos/Pasted image 20251110110718.png",
+    "reverse_eng/fotos/Pasted image 20251110110557.png",
+    "reverse_eng/vault-door-3.md",
     "Plantilla.md",
+    "reverse_eng/fotos/Pasted image 20251110105902.png",
+    "reverse_eng/fotos/Pasted image 20251110105710.png",
+    "reverse_eng/vault-door-1.md",
+    "reverse_eng/fotos/Pasted image 20251110082243.png",
+    "reverse_eng/fotos/Pasted image 20251110082213.png",
+    "reverse_eng/vault-door-training.md",
+    "reverse_eng/fotos",
+    "reverse_eng",
+    "Crypto/tarea4/Vigenere.md",
     "Crypto/tarea4/substitution1.md",
     "Crypto/tarea4/substitution2.md",
-    "Crypto/fotos/Pasted image 20251106193712.png",
-    "Crypto/fotos/Pasted image 20251106193048.png",
-    "Crypto/fotos/Pasted image 20251106192931.png",
-    "Crypto/fotos/Pasted image 20251106192902.png",
     "Crypto/tarea4/substitution0.md",
-    "Crypto/fotos/Pasted image 20251106192725.png",
-    "Crypto/fotos/Pasted image 20251106192633.png",
     "Crypto/tarea4/rail-fence.md",
-    "Crypto/fotos/Pasted image 20251106190934.png",
-    "Crypto/fotos/Pasted image 20251106190805.png",
     "Crypto/tarea4/morse-code.md",
     "Crypto/tarea4/credstuff.md",
     "Crypto/tarea4/EVEN RSA CAN BE BROKEN.md",
@@ -204,12 +238,6 @@
     "Crypto/la cifra de.md",
     "Crypto/ssf.md",
     "Crypto/rsa-pop-quiz.md",
-    "Crypto/b00tl3gRSA3.md",
-    "Crypto/b00tl3gRSA2.md",
-    "Forensic/tarea3/Ph4nt0m 1ntrud3r.md",
-    "Forensic/tarea3/RED.md",
-    "Forensic/tarea3/Secret of the Polyglot.md",
-    "Forensic/tarea3/Scan Surprise.md",
     "Forensic/tarea3",
     "Forensic/fotos",
     "Crypto/fotos",
@@ -217,8 +245,6 @@
     "Sinnombre",
     "Forensic",
     "Web",
-    "General Skills",
-    "Sin nombre 3",
     "Sin título.canvas",
     "Sin título 1.canvas"
   ]
