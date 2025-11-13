@@ -24,33 +24,19 @@
             }
           },
           {
-            "id": "3bef0f101863ba5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reverse_eng/vault-door-3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "vault-door-3"
-            }
-          },
-          {
-            "id": "ec09843d4957f46d",
+            "id": "154dd2c9b21ff804",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "reverse_eng/fotos/Pasted image 20251110080529.png"
+                "file": "reverse_eng/fotos/Pasted image 20251112210155.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20251110080529"
+              "title": "Pasted image 20251112210155"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,22 +186,28 @@
   },
   "active": "4599404051fafccf",
   "lastOpenFiles": [
-    "reverse_eng/vault-door-5.md",
-    "reverse_eng/fotos/Pasted image 20251110112207.png",
-    "reverse_eng/fotos/Pasted image 20251110112057.png",
-    "reverse_eng/fotos/Pasted image 20251110111940.png",
-    "reverse_eng/Sin título.md",
-    "reverse_eng/vault-door-4.md",
-    "reverse_eng/fotos/Pasted image 20251110110931.png",
-    "reverse_eng/fotos/Pasted image 20251110110718.png",
-    "reverse_eng/fotos/Pasted image 20251110110557.png",
-    "reverse_eng/vault-door-3.md",
+    "reverse_eng/timer.md",
+    "reverse_eng/fotos/Pasted image 20251112214101.png",
+    "reverse_eng/fotos/Pasted image 20251112214030.png",
+    "reverse_eng/fotos/Pasted image 20251112214018.png",
+    "reverse_eng/fotos/Pasted image 20251112213929.png",
+    "reverse_eng/fotos/Pasted image 20251112213843.png",
     "Plantilla.md",
-    "reverse_eng/fotos/Pasted image 20251110105902.png",
-    "reverse_eng/fotos/Pasted image 20251110105710.png",
+    "reverse_eng/picker lV.md",
+    "reverse_eng/fotos/Pasted image 20251112212912.png",
+    "reverse_eng/Picker III.md",
+    "reverse_eng/fotos/Pasted image 20251112212423.png",
+    "reverse_eng/fotos/Pasted image 20251112212359.png",
+    "reverse_eng/Picker ll.md",
+    "reverse_eng/fotos/Pasted image 20251112212001.png",
+    "reverse_eng/Picker I.md",
+    "reverse_eng/fotos/Pasted image 20251112211502.png",
+    "reverse_eng/Safe Opener 2.md",
+    "reverse_eng/Safe Opener.md",
+    "reverse_eng/vault-door-5.md",
+    "reverse_eng/vault-door-4.md",
+    "reverse_eng/vault-door-3.md",
     "reverse_eng/vault-door-1.md",
-    "reverse_eng/fotos/Pasted image 20251110082243.png",
-    "reverse_eng/fotos/Pasted image 20251110082213.png",
     "reverse_eng/vault-door-training.md",
     "reverse_eng/fotos",
     "reverse_eng",
@@ -232,12 +224,6 @@
     "Crypto/ReadMyCert.md",
     "Crypto/HideToSee.md",
     "Crypto/basic-mod1.md",
-    "Crypto/Pixelated.md",
-    "Crypto/miniRSA.md",
-    "Crypto/Mind your Ps and Qs.md",
-    "Crypto/la cifra de.md",
-    "Crypto/ssf.md",
-    "Crypto/rsa-pop-quiz.md",
     "Forensic/tarea3",
     "Forensic/fotos",
     "Crypto/fotos",
